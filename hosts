@@ -1,4 +1,4 @@
-[dev]
+[web]
 
 13.233.63.231    ansible_ssh_user=centos    
 
