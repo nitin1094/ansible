@@ -1,0 +1,5 @@
+- hosts: all
+  tasks: 
+    - copy:
+        src: addressbook.war
+        dest: /opt
