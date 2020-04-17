@@ -2,4 +2,4 @@
   tasks: 
     - copy:
         src: addressbook.war
-        dest: /opt
+        dest: /tmp
